@@ -1,2 +1,2 @@
 # EPAM_Course
-This repository is for EPMA Data Analytics course
+This repository is for EPAM Data Analytics course
